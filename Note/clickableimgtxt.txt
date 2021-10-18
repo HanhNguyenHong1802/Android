@@ -1,0 +1,5 @@
+Xử lý sự kiện GUI:
+Bước 1: Tìm source object findViewById(Id của source object)
+Bước 2:Viết lớp view Implements ViewOnClickListener onClick(View view)
+Bước 3: Tạo đối tượng Listener object btListener= new setOnListener()
+Bước 4: Đăng ký đối tượng nguồn đối với đối tượng nghe 
